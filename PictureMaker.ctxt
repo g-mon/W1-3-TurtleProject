@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PictureMaker()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=void\ erase()
+comment3.params=
+comment3.target=void\ drawInitials()
+comment4.params=length
+comment4.target=void\ drawPentagon(int)
+comment4.text=\r\n\ Draw\ a\ pentagon\ with\ variable\ size\r\n
+comment5.params=length
+comment5.target=void\ drawHexagon(int)
+comment5.text=\r\n\ Draw\ a\ hexagon\ with\ variable\ size\r\n
+comment6.params=length
+comment6.target=void\ polygons(int)
+comment6.text=\r\n\ Draw\ both\ polygons\ in\ different\ colours\r\n
+numComments=7
